@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sugarcane Disease Detection</string>
+    <string name="sugar">SUGAR</string>
+    <string name="cane">CANE</string>
+    <string name="disease_detection">Disease Detection</string>
+    <string name="select_img">Click To Select An Image</string>
+    <string name="learn_more_about_it">Learn More About It</string>
+</resources>
