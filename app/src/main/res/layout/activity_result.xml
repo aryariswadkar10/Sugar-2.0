@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/red_rot_sugarcane" />
+        app:srcCompat="@drawable/red_strip_sugarcane" />
 
     <TextView
         android:id="@+id/diseaseName"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="84dp"
         android:textColor="@color/brown_txt"
-        android:text="Red Rot"
+        android:text="Rust"
         android:textSize="35sp"
         android:letterSpacing="0.1"
         android:fontFamily="@font/almarai_bold"
